@@ -18,7 +18,7 @@ function Projects() {
         />
         <ProjectCard
           src={wa}
-          link=""
+          link="https://weather-app-git-main-jayanth10-hubs-projects.vercel.app/"
           h3="Weather App"
           p="Weather App using API"
         />
